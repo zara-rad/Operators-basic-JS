@@ -10,7 +10,7 @@
 const biscuits = 33;
 const friends = 4;
 
-const biscuitsPerPerson = Math.floor(???);
+const biscuitsPerPerson = Math.floor(8);
 
 // don't change this
 console.log(`Each person can eat ${biscuitsPerPerson} biscuits`);

@@ -19,6 +19,7 @@ let numberOfPeople = 4;
 
 // change the code here
 let totalPerPerson =
-  coffeesTotal + cakesTotal + juicesTotal + iceCreamTotal / numberOfPeople;
+  coffeesTotal + cakesTotal + juicesTotal + iceCreamTotal;
 
-  console.log(`Each person should pay ${totalPerPerson}€`);
+
+  console.log(`Each person should pay ${totalPerPerson /numberOfPeople }€`);
